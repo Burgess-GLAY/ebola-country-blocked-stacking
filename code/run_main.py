@@ -1,4 +1,4 @@
-import sys; sys.path.insert(0,'/tmp/rp1/v2')
+import sys; sys.path.insert(0,'code')
 from core import *
 s=int(sys.argv[1])
 res=run(country_outer(),FALL,[('old',None),('strat',None),('group','country')],s,'main')

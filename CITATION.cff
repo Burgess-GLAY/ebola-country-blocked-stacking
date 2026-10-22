@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Data and code: country-blocked validation of a leakage-free stacked ensemble for district-level Ebola risk prediction"
+authors:
+  - family-names: Glay
+    given-names: Burgess Awalayah
+    orcid: "https://orcid.org/0009-0004-2153-2695"
+  - family-names: He
+    given-names: Xu
+    orcid: "https://orcid.org/0000-0003-2809-2237"
+license: MIT
+repository-code: "https://github.com/Burgess-GLAY/ebola-country-blocked-stacking"

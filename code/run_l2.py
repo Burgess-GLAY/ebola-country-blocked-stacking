@@ -1,4 +1,4 @@
-import sys; sys.path.insert(0,'/tmp/rp1/v2')
+import sys; sys.path.insert(0,'code')
 from core import *
 import shap
 out={}
